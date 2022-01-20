@@ -1,5 +1,9 @@
 # joken_po
 
+Game app delevoped for learning purpose.
+![image](https://user-images.githubusercontent.com/26288178/150282249-750d2ba4-0dcd-46f0-97f1-f86832541cd4.png)
+
+
 A new Flutter project.
 
 ## Getting Started
