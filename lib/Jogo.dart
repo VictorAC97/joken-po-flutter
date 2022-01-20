@@ -21,9 +21,6 @@ class _JogoState extends State<Jogo> {
     var numero = Random().nextInt(3);
     var escolhaApp = opcoes[numero];
 
-    print("Escolha do usuario: ${escolhaUsuario}");
-    print("Escolha do App: ${escolhaApp}");
-
     //exibicao da imagem escolhida pelo app
     switch (escolhaApp) {
       case "pedra":
